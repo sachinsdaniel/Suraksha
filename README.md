@@ -1,0 +1,3 @@
+# Suraksha
+SURAKSHA, aims to restrict the speed, in vicinity of deemed accident prone areas like  schools, hospitals, hairpins curves and other places where speed limit is enforced. Background Details: Suraksha enforces cost effectiveness, and energy efficiency by using LEDs for determining the vicinity of accident prone areas. Suraksha, can be incorporated to street lights or caution signals so that ordinary illumination is converted into smart transmitting devices(Retrofitting ). When the vehicle is near the vicinity, a decoder attached to vehicle decodes this signal to effectively control the speed.
+All codes are written in same file 'Suraksha'.
